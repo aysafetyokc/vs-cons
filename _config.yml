@@ -13,19 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Vanguard Safety - Oklahoma City
+email: aysafetyokc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
+  
+
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+twitter_username: username # - will insert one when/if we ever get a twitter ;P
+github_username: aysafetyokc
 minimal_mistakes_skin: default
 search: true
 
 # Build settings
-markdown: kramdown
+markdown: kramdown 
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
@@ -58,9 +60,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Alex Yeverino"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Safety professional with more than 10 years in the construction industry. I have a passion for helping people in my community get home to their families."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
